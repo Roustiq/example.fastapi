@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+7:42:52 - Environments on POST and SET access_token 
+7:55:00 - database relationships explained on SQL
+8:07:21 - database relationships on python
+8:13:50 - update the code after relationships for POST issues removing
+8:33:38 - retrieve the information about the owner of the post from user_id
+8:38:32 - Query parameters
+8:53:50 - environment variables explained on widows (hide important keys)
+9:04:05 - environment variables (hide important keys) program
+9:21:20 - Like system explained
+9:26:36 - Like system on SQL
+9:31:35 - Like system on programming
+9:34:10 - Vote Route
+9:52:30 - get info from multiple tables. Join and Group functions explained on postgresql
+10:15:25 - get info from multiple tables. Join function programming
+10:30:18 - building extra columns in tables on python, which sqlalchemy is unable to do (tool:Alembic) -----important!!!
+11:10:15 - Alembic coopertion with sqlalchemy
+11:14:30 - Changing the request from my comuter via POST to web browser. (CORS policy)
+11:33:35 - setup git for projects 
